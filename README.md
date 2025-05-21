@@ -55,16 +55,19 @@ Este projeto é uma página web promocional para o serviço de assinatura **Alur
 
 ## Estrutura de Pastas
 
+```
+📁/
 ├── index.html
 ├── styles/
-│ └── styles.css
+│   └── styles.css
 └── img/
-├── Background.png
-├── Combo.png
-├── Plataformas.png
-├── Telas.png
-├── Notebook.png
-├── tv.png
-├── computador.png
-├── celular.png
-└── Logo.png
+    ├── Background.png
+    ├── Combo.png
+    ├── Plataformas.png
+    ├── Telas.png
+    ├── Notebook.png
+    ├── tv.png
+    ├── computador.png
+    ├── celular.png
+    └── Logo.png
+```
